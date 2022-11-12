@@ -1,0 +1,8 @@
+{
+  "/api/*":{
+    "target":"https://proyecto-arg-prog-frontend.web.app",
+    "changeOrigin": true,
+    "secure": false,
+    "logLevel": "debug"
+  }
+}
